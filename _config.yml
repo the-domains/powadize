@@ -1,7 +1,7 @@
 name: powadize
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.34104
+layout_spectrum: 0.63198
+typography_spectrum: 0.62235
 title: french powsurfboards
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#9b9b9b'
     - '#bfbfbf'
   brandStrength: 0
-  lightness: 0.6034412807784975
-  saturation: 0.9074715536553413
-  rhythmicContrast: 0.380412861937657
+  lightness: 0.625
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
